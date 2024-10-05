@@ -1,0 +1,20 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+    "font_face": "PragmataPro",
+    "binary_file_patterns":
+    [
+        "*.min.js",
+        "*.bundle.js",
+        "*.min.css",
+            "*.map",
+        "*.ttf",
+        "*.woff2"
+    ],
+    "ignored_packages": [],
+    "vintage_start_in_command_mode": true,
+    "font_size": 13,
+    "update_check": false,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": "all",
+}
